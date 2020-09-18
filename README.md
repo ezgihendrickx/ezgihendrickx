@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...Anything
 - 📫 How to reach me: ...[ezgihendrickx@gmail.com]
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...from cabin crew to Web Dev...:airplane:
+- ⚡ Fun fact: ...from Cabin crew to Web Dev...:airplane:
 -->
