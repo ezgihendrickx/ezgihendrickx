@@ -1,6 +1,6 @@
 ### Hi there :rainbow:
 
-Quote of the month: ... “Ever tried. Ever failed. No matter. Try again. Fail again. Fail better.” Samuel Beckett
+Quote of the month: ```“Ever tried. Ever failed. No matter. Try again. Fail again. Fail better.” Samuel Beckett ```
 
 Here are some ideas to get you started:
 
