@@ -5,7 +5,7 @@ Quote of the month: ```“Ever tried. Ever failed. No matter. Try again. Fail ag
 
 - 🔭 I’m currently working on ...PHP-OOP
 - 🌱 I’m currently learning ...PHP
-- 👯 I’m looking to collaborate on ...JS / PHP
+- 👯 I’m looking to collaborate on ...JS React / PHP
 - 🤔 I’m looking for help with ...PHP
 - 💬 Ask me about ...Anything
 - 📫 How to reach me: ...<ezgihendrickx@gmail.com>
